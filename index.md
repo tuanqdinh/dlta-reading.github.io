@@ -6,7 +6,7 @@ Hi!
 
 Welcome to our reading group. Please join us this summer to understand and learn about deep learning from a researcher's point of view. We will be doing book readings, paper readings, code demos, guest lectures and a lot more. 
 
-We are first planning to finish the book by Ian Goodfellow [thedeeplearningbook](http://www.deeplearningbook.org/).
+We are first planning to finish the book by Ian Goodfellow, [deeplearningbook](http://www.deeplearningbook.org/).
 
 **All are welcome**
 
@@ -17,20 +17,12 @@ We will be meeting **Tuesdays** and **Fridays** at **4:00 pm** in **MSC break ro
 
 ### Schedule
 
-|    Activity   | Details                               | Leader      | Day       |
-|:-------------:|---------------------------------------|-------------|-----------|
-| Book Reading  | ch 13: Linear Factor Models           | Vishnu      | 1st June  |
-| Book Reading  | ch 6: Deep Networks                   | Ronak       | 5th June  |
-| Book Reading  | ch 7: Regularization in Deep Networks | --Speaker-- | 8th June  |
-| Guest Lecture |  -- topic --                          | --Speaker-- | 10th June |
-
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+|  **Activity**   | **Details**                           | **Leader**  | **Day**   |
+|:---------------:|---------------------------------------|-------------|-----------|
+| _Book Reading_  | ch 13: Linear Factor Models           | Vishnu      | 1st June  |
+| _Book Reading_  | ch 6: Deep Networks                   | Ronak       | 5th June  |
+| _Book Reading_  | ch 7: Regularization in Deep Networks | --Speaker-- | 8th June  |
+|_Guest Lecture_  |  -- topic --                          | --Speaker-- | 10th June |
 
 
 ### Contact
