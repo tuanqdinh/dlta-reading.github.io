@@ -2,6 +2,31 @@
 layout: default
 ---
 
+Hi! 
+
+Welcome to our reading group. Please join us this summer to understand deep learning from a researcher's point of view. 
+
+We will be doing book readings, paper readings, code demos, guest lectures and a lot more. We will be meeting Tuesdays and Fridays at 4:00 pm in MSC break room 5765B.
+
+** All are welcome **
+
+We are first planning to finish the book by Ian Goodfellow [thedeeplearningbook](http://www.deeplearningbook.org/). 
+
+### Schedule
+|    Activity   | Details                               | Leader      | Day       |
+|:-------------:|---------------------------------------|-------------|-----------|
+| Book Reading  | ch 13: Linear Factor Models           | Vishnu      | 1st June  |
+| Book Reading  | ch 6: Deep Networks                   | Ronak       | 5th June  |
+| Book Reading  | ch 7: Regularization in Deep Networks | --Speaker-- | 8th June  |
+| Guest Lecture |  -- topic --                          | --Speaker-- | 10th June |
+
+### Contact
+If you have any questions or would like to join the reading group, please contact
+- Vishnu Lokhande [lokhande@cs.wisc.edu]
+- Tuan Dinh [tuandinh@cs.wisc.edu]
+
+
+<!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -120,4 +145,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` --->
