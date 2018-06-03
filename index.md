@@ -4,15 +4,19 @@ layout: default
 
 Hi! 
 
-Welcome to our reading group. Please join us this summer to understand deep learning from a researcher's point of view. 
+Welcome to our reading group. Please join us this summer to understand and learn about deep learning from a researcher's point of view. We will be doing book readings, paper readings, code demos, guest lectures and a lot more. 
 
-We will be doing book readings, paper readings, code demos, guest lectures and a lot more. We will be meeting Tuesdays and Fridays at 4:00 pm in MSC break room 5765B.
+We are first planning to finish the book by Ian Goodfellow [thedeeplearningbook](http://www.deeplearningbook.org/).
 
-** All are welcome **
+**All are welcome**
 
-We are first planning to finish the book by Ian Goodfellow [thedeeplearningbook](http://www.deeplearningbook.org/). 
+### Time and Location
+
+We will be meeting **Tuesdays** and **Fridays** at **4:00 pm** in **MSC break room 5765B**.
+ 
 
 ### Schedule
+
 |    Activity   | Details                               | Leader      | Day       |
 |:-------------:|---------------------------------------|-------------|-----------|
 | Book Reading  | ch 13: Linear Factor Models           | Vishnu      | 1st June  |
@@ -20,7 +24,17 @@ We are first planning to finish the book by Ian Goodfellow [thedeeplearningbook]
 | Book Reading  | ch 7: Regularization in Deep Networks | --Speaker-- | 8th June  |
 | Guest Lecture |  -- topic --                          | --Speaker-- | 10th June |
 
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+
 ### Contact
+
 If you have any questions or would like to join the reading group, please contact
 - Vishnu Lokhande [lokhande@cs.wisc.edu]
 - Tuan Dinh [tuandinh@cs.wisc.edu]
