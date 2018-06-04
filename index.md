@@ -4,9 +4,9 @@ layout: default
 
 Hi! 
 
-Welcome to our reading group. Please join us this summer to understand and learn about deep learning from a researcher's point of view. We will be doing book readings, paper readings, code demos, guest lectures and a lot more. 
+Welcome to our reading group. Please join us this summer to understand and learn about deep learning from a researcher's point of view. We will be doing book readings, paper readings, code demos, guest lectures and more importantly, discussing and updating the latest research from deep-learning community. 
 
-We are first planning to finish the book by Ian Goodfellow, [deeplearningbook](http://www.deeplearningbook.org/).
+We are first planning to finish the book by Ian Goodfellow, [deeplearningbook](http://www.deeplearningbook.org/)in June and move to [Matrix Computation book] (http://web.mit.edu/ehliu/Public/sclark/Golub%20G.H.,%20Van%20Loan%20C.F.-%20Matrix%20Computations.pdf)
 
 **All are welcome**
 
