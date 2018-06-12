@@ -17,12 +17,13 @@ We will be meeting **Tuesdays** and **Fridays** at **4:00 pm** in **MSC break ro
 
 ### Schedule
 
-|  **Activity**   | **Details**                           | **Leader**  | **Day**   |
-|:---------------:|---------------------------------------|-------------|-----------|
-| _Book Reading_  | ch 13: Linear Factor Models           | Vishnu      | 1st June  |
-| _Book Reading_  | ch 6: Deep Networks                   | Ronak       | 5th June  |
-| _Book Reading_  | ch 7: Regularization in Deep Networks | --Speaker-- | 8th June  |
-|_Guest Lecture_  |  -- topic --                          | --Speaker-- | 10th June |
+|  **Activity**   | **Details**                           | **Leader**  | **Day**   | **Subscript**|
+|:---------------:|---------------------------------------|-------------|-----------|---------------
+| _Book Reading_  | ch 13: Linear Factor Models           | Vishnu      | 1st June  |              |
+| _Book Reading_  | ch 6: Deep Networks                   | Ronak       | 5th June  |              |
+| _Book Reading_  | ch 7: Regularization in Deep Networks | Tuan        | 12th June |[slides]()    |
+| _Book Reading_  | ch 13: Autoencoders                   | Zihang      | 15th June |              |
+
 
 
 ### Contact
